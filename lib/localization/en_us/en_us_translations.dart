@@ -1,0 +1,50 @@
+final Map<String, String> enUs = {
+  "lbl_easy_donations": "Easy donations",
+  "lbl_learn_more": "Learn More",
+  "lbl_mukesh": "Mukesh",
+  "lbl_register_now": "Register Now",
+  "lbl_sarika": "Sarika",
+  "lbl_send_message": "Send Message",
+  "lbl_testimonial": "Testimonial",
+  "lbl_type_here": "Type here",
+  "lbl_vidhi": "Vidhi",
+  "lbl_view_more": "View more.",
+  "lbl_your_message": "Your Message",
+  "msg_become_a_volunteer": "Become a volunteer",
+  "msg_connect_or_donate": "CONNECT OR DONATE",
+  "msg_donate_cash_kind": "Donate cash/kind",
+  "msg_dr_arimbi_aditya": "dr. Arimbi Aditya, Founder of ElderCare NGO",
+  "msg_get_to_know_our": "Get to know our happy volunteers!",
+  "msg_health_hive_est": "HEALTH HIVE\nest. 2024",
+  "msg_learn_more_about": "Learn More About Us",
+  "msg_lorem_ipsum_dolor":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Imperdiet velit orci, morbi sociis feugiat eros quam. Fermentum proin faucibus egestas ac gravida nulla montes.",
+  "msg_lorem_ipsum_dolor2":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque odio tortor tristique ornare turpis eu blandit ultrices quam. Ridiculus ipsum morbi tellus consectetur. View more.",
+  "msg_lorem_ipsum_dolor3":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Scelerisque odio tortor tristique ornare turpis eu blandit ultrices quam. Ridiculus ipsum morbi tellus consectetur. ",
+  "msg_lorem_ipsum_dolor4":
+      "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. In turpis interdum lectus nibh at euismod.”",
+  "msg_ngo_professionals": "NGO Professionals",
+  "msg_provide_feedback": "Provide Feedback",
+  "msg_ready_to_volunteer": "Ready to volunteer?",
+  "msg_share_your_story": "Share your story",
+  "msg_view_all_testimonials": "View all testimonials",
+  "lbl_book_now": "Book Now",
+  "lbl_events_near_you": "Events Near You",
+  "lbl_find_ngos": "Find NGOs",
+  "lbl_volunteer": "Volunteer",
+  "msg_good_deed_grid_est": "GOOD DEED GRID\nest. 2024",
+  "msg_serve_the_society": "Serve the society.",
+  "lbl_about_us": "About Us",
+  "lbl_health_hive": "HEALTH HIVE",
+  "msg_we_at_health_hive":
+      "We, at Health Hive, wish to provide a centralised platform for NGOs, students, volunteers and other social initiatives to serve the society",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_landing_page": "Landing Page",
+  "lbl_volunteer_page": "volunteer Page ",
+  "msg_check_your_app_s":
+      "Check your app's UI from the below demo screens of your app.",
+  "msg_network_err": "Network Error",
+  "msg_something_went_wrong": "Something Went Wrong!"
+};
